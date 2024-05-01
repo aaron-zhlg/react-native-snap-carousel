@@ -1,3 +1,19 @@
+# Project Name
+
+This is a brief introduction to your project.
+
+## License
+
+This project is distributed under the BSD-3-Clause License with the following personal additions:
+
+### Additional Terms
+
+This version of the software includes a "Non-Commercial Use" restriction aimed at preventing the commercial use of the software while not affecting its use for educational and research purposes. This restriction is a supplement to the original BSD-3-Clause License.
+
+Please note that this additional restriction may not fully align with the original intent of the BSD-3-Clause License, which allows for the free use and distribution of the software for commercial and non-commercial purposes. If you intend to use the software for commercial purposes, please use the original version of the software or seek another appropriate license version.
+
+
+
 # react-native-snap-carousel
 
 ![platforms](https://img.shields.io/badge/platforms-Android%20%7C%20iOS-brightgreen.svg?style=flat-square&colorB=191A17)
