@@ -1,7 +1,3 @@
-# Project Name
-
-This is a brief introduction to your project.
-
 ## License
 
 This project is distributed under the BSD-3-Clause License with the following personal additions:
